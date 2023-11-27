@@ -1,19 +1,19 @@
 ## Market-Segmentation-on-Banking-Dataset-
-## Objective :
+# Objective :
 For this particular casestudy, the task involves formulating customer segmentation to offer tailored recommendations, including savings plans, loans, wealth management, and other relevant services, to specific groups of customers.
 
 image.png
 
-## Data Description :
+# Data Description :
 The dataset provided contains information on the usage behavior of approximately 9000 active credit card holders over the past 6 months. The data is structured at a customer level and comprises 18 behavioral variables.
 
-## Data :
+# Data :
 Use the below link to download the Data Set:here
 
-## Attribute Information :
+# Attribute Information :
 The attribute information, or data dictionary, for the customer's credit card dataset is as follows:
 
-## [Provide details of the attributes and their meanings here.]
+# [Provide details of the attributes and their meanings here.]
 
 CUSTID : Identification of Credit Card holder (Categorical)
 BALANCE : Balance amount left in their account to make purchases
